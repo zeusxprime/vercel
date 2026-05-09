@@ -3,7 +3,7 @@
   "rewrites": [
     {
       "source": "/(.*)",
-      "destination": "http://azion.primecel.shop/$1"
+      "destination": "http://sv.primecel.shop/$1"
     }
   ]
 }
